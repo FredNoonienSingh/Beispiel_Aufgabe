@@ -5,7 +5,7 @@ def main():
         print(fizzbizz(i))
 
 
-def fizzbizz(number: int) -> str:
+def fizzbizz(number: int) -> String ? Int:
 
     # Schreibe hier eine funktion, die eine Zahl als annimmt und als return Wert
     #  Fizz ausgibt, wenn die Zahl durch 3 teilbar ist.
