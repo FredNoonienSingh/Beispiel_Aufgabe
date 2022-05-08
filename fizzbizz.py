@@ -11,7 +11,7 @@ def fizzbizz(number: int) -> String ? Int:
     #  Fizz ausgibt, wenn die Zahl durch 3 teilbar ist.
     #  Bizz ausgibt, wenn die Zahl durch 5 teilbar ist.
     #  FizzBizz ausgibt, wenn die Zahl durch 3 und 5 Teilbar ist.
-    #  Wenn nichts davon zutrifft gib die Zahl zu zurück
+    #  Wenn nichts davon zutrifft gib die Zahl zurück
 
     if number % 3 == 0:
         if number % 5 == 0:
